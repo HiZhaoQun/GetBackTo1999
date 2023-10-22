@@ -5,8 +5,8 @@ import requests
 import logging
 import json
 from PIL import Image
-from 重返未来1999.get_ajax_json import get_json
-from 重返未来1999.get_now_date import get_date
+from Functions.get_ajax_json import get_json
+from Functions.get_now_date import get_date
 
 
 def save_json():

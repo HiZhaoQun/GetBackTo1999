@@ -1,7 +1,7 @@
 import logging
 import requests
 import json
-from 重返未来1999 import file_save
+import file_save
 
 
 def get_json(url, header, data, save_path, detail_name):

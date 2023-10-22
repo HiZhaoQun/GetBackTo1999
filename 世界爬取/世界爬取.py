@@ -2,9 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 import re
 from concurrent.futures import ThreadPoolExecutor
-from 重返未来1999.file_save import save_file, save_txt
-from 重返未来1999.get_now_date import get_date
-from 重返未来1999.tail import get_tail_type
+from Functions.file_save import save_file, save_txt
+from Functions.get_now_date import get_date
+from Functions.tail import get_tail_type
 
 
 def get_part_url():

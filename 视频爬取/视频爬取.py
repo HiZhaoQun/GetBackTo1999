@@ -1,8 +1,8 @@
 from concurrent.futures import ThreadPoolExecutor
-from 重返未来1999.file_save import *
-from 重返未来1999.get_ajax_json import get_json
-from 重返未来1999.get_now_date import get_date
-from 重返未来1999.tail import get_url_tail_name, get_tail_type
+from Functions.file_save import *
+from Functions.get_ajax_json import get_json
+from Functions.get_now_date import get_date
+from Functions.tail import get_url_tail_name, get_tail_type
 
 
 # def save_dict(data_dict):
