@@ -1,7 +1,7 @@
 import logging
 import requests
 import json
-import file_save
+from Functions import file_save
 
 
 def get_json(url, header, data, save_path, detail_name):
