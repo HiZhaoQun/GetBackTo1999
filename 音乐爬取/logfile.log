@@ -1,0 +1,230 @@
+2023-08-21 23:30:46,434 - root - INFO - 正在打开文件query.json
+2023-08-21 23:30:46,435 - root - INFO - 读取文件query.json成功，已经转换为{'code': 200, 'msg': '成功', 'data': {'pageData': [{...
+2023-08-21 23:30:46,435 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-21 23:30:46,436 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-21 23:30:46,440 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:30:46,601 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake%EF%BC%88%E9%9D%9E%E6%B8%85%E5%94%B1%EF%BC%89_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav HTTP/1.1" 200 47079394
+2023-08-21 23:30:50,932 - root - INFO - 访问成功，已保存EP  坎贝尔.wav文件
+2023-08-21 23:30:50,937 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-21 23:30:50,939 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:30:51,110 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake%EF%BC%88%E9%9D%9E%E6%B8%85%E5%94%B1%EF%BC%89_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav HTTP/1.1" 200 47079394
+2023-08-21 23:30:55,604 - root - INFO - 访问成功，已保存EP  坎贝尔.wav文件
+2023-08-21 23:30:55,608 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230809/大封面图_e756692e3a0a42049059b2a0c9a77075.jpg中
+2023-08-21 23:30:55,609 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:30:55,725 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230809/%E5%A4%A7%E5%B0%81%E9%9D%A2%E5%9B%BE_e756692e3a0a42049059b2a0c9a77075.jpg HTTP/1.1" 200 71497
+2023-08-21 23:30:55,757 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230809/大封面图_e756692e3a0a42049059b2a0c9a77075.jpg成功，已保存EP  坎贝尔.jpg文件
+2023-08-21 23:30:55,759 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230809/小封面图_478857729bce44ce92010f9a197e1131.png中
+2023-08-21 23:30:55,761 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:30:55,875 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230809/%E5%B0%8F%E5%B0%81%E9%9D%A2%E5%9B%BE_478857729bce44ce92010f9a197e1131.png HTTP/1.1" 200 6547
+2023-08-21 23:30:55,876 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230809/小封面图_478857729bce44ce92010f9a197e1131.png成功，已保存EP  坎贝尔.png文件
+2023-08-21 23:30:55,878 - root - INFO - json文件EP  坎贝尔.json保存成功
+2023-08-21 23:30:55,878 - root - INFO - 访问完成
+2023-08-21 23:30:55,878 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230802/【510061】【1.2】play_activitymusic_greenlake_thememusic_114bpm3_4_ed91ac06cc55424783f64c0496873518.wav中
+2023-08-21 23:30:55,878 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230802/【510061】【1.2】play_activitymusic_greenlake_thememusic_114bpm3_4_ed91ac06cc55424783f64c0496873518.wav中
+2023-08-21 23:30:55,880 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:30:55,990 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230802/%E3%80%90510061%E3%80%91%E3%80%901.2%E3%80%91play_activitymusic_greenlake_thememusic_114bpm3_4_ed91ac06cc55424783f64c0496873518.wav HTTP/1.1" 200 21086320
+2023-08-21 23:30:58,142 - root - INFO - 访问成功，已保存EP  绿湖噩梦.wav文件
+2023-08-21 23:30:58,145 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230802/【510061】【1.2】play_activitymusic_greenlake_thememusic_114bpm3_4_ed91ac06cc55424783f64c0496873518.wav中
+2023-08-21 23:30:58,147 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:30:58,260 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230802/%E3%80%90510061%E3%80%91%E3%80%901.2%E3%80%91play_activitymusic_greenlake_thememusic_114bpm3_4_ed91ac06cc55424783f64c0496873518.wav HTTP/1.1" 200 21086320
+2023-08-21 23:31:00,423 - root - INFO - 访问成功，已保存EP  绿湖噩梦.wav文件
+2023-08-21 23:31:00,426 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230802/大封面图_656b520153b44af4906c245165c93377.jpg中
+2023-08-21 23:31:00,427 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:00,545 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230802/%E5%A4%A7%E5%B0%81%E9%9D%A2%E5%9B%BE_656b520153b44af4906c245165c93377.jpg HTTP/1.1" 200 165591
+2023-08-21 23:31:00,612 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230802/大封面图_656b520153b44af4906c245165c93377.jpg成功，已保存EP  绿湖噩梦.jpg文件
+2023-08-21 23:31:00,614 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230802/小封面图_e4f92f942c3445079a266d9ebb131fe3.png中
+2023-08-21 23:31:00,615 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:00,725 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230802/%E5%B0%8F%E5%B0%81%E9%9D%A2%E5%9B%BE_e4f92f942c3445079a266d9ebb131fe3.png HTTP/1.1" 200 65073
+2023-08-21 23:31:00,753 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230802/小封面图_e4f92f942c3445079a266d9ebb131fe3.png成功，已保存EP  绿湖噩梦.png文件
+2023-08-21 23:31:00,755 - root - INFO - json文件EP  绿湖噩梦.json保存成功
+2023-08-21 23:31:00,755 - root - INFO - 访问完成
+2023-08-21 23:31:00,755 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230628/【510058】【1.1】play_activitymusic_HumorousBurglary_74bpm4-4_dfe6b545b1894c3aad75a618ad6f9b0c.wav中
+2023-08-21 23:31:00,756 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230628/【510058】【1.1】play_activitymusic_HumorousBurglary_74bpm4-4_dfe6b545b1894c3aad75a618ad6f9b0c.wav中
+2023-08-21 23:31:00,758 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:00,879 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230628/%E3%80%90510058%E3%80%91%E3%80%901.1%E3%80%91play_activitymusic_HumorousBurglary_74bpm4-4_dfe6b545b1894c3aad75a618ad6f9b0c.wav HTTP/1.1" 200 17437670
+2023-08-21 23:31:02,680 - root - INFO - 访问成功，已保存EP  嘘!.wav文件
+2023-08-21 23:31:02,683 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230628/【510058】【1.1】play_activitymusic_HumorousBurglary_74bpm4-4_dfe6b545b1894c3aad75a618ad6f9b0c.wav中
+2023-08-21 23:31:02,684 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:02,789 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230628/%E3%80%90510058%E3%80%91%E3%80%901.1%E3%80%91play_activitymusic_HumorousBurglary_74bpm4-4_dfe6b545b1894c3aad75a618ad6f9b0c.wav HTTP/1.1" 200 17437670
+2023-08-21 23:31:04,491 - root - INFO - 访问成功，已保存EP  嘘!.wav文件
+2023-08-21 23:31:04,494 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230628/底图-662x662(1)(1)_a877214b807148c982bd58a98a78acae.jpg中
+2023-08-21 23:31:04,495 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:04,622 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230628/%E5%BA%95%E5%9B%BE-662x662(1)(1)_a877214b807148c982bd58a98a78acae.jpg HTTP/1.1" 200 301808
+2023-08-21 23:31:04,773 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230628/底图-662x662(1)(1)_a877214b807148c982bd58a98a78acae.jpg成功，已保存EP  嘘!.jpg文件
+2023-08-21 23:31:04,775 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230628/歌名-602x270_afc536210c7641f3a079fcac8130fffa.png中
+2023-08-21 23:31:04,777 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:04,890 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230628/%E6%AD%8C%E5%90%8D-602x270_afc536210c7641f3a079fcac8130fffa.png HTTP/1.1" 200 34100
+2023-08-21 23:31:04,894 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230628/歌名-602x270_afc536210c7641f3a079fcac8130fffa.png成功，已保存EP  嘘!.png文件
+2023-08-21 23:31:04,897 - root - INFO - json文件EP  嘘!.json保存成功
+2023-08-21 23:31:04,897 - root - INFO - 访问完成
+2023-08-21 23:31:04,897 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230621/【510057】【1.1】play_activitymusic_thememusic_112bpm4_4_9f10a681c2ed4bac8ba25dff377b7d7f.wav中
+2023-08-21 23:31:04,898 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230621/【510057】【1.1】play_activitymusic_thememusic_112bpm4_4_9f10a681c2ed4bac8ba25dff377b7d7f.wav中
+2023-08-21 23:31:04,900 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:05,044 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230621/%E3%80%90510057%E3%80%91%E3%80%901.1%E3%80%91play_activitymusic_thememusic_112bpm4_4_9f10a681c2ed4bac8ba25dff377b7d7f.wav HTTP/1.1" 200 19129550
+2023-08-21 23:31:07,063 - root - INFO - 访问成功，已保存EP  雷米特杯失窃案.wav文件
+2023-08-21 23:31:07,066 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230621/【510057】【1.1】play_activitymusic_thememusic_112bpm4_4_9f10a681c2ed4bac8ba25dff377b7d7f.wav中
+2023-08-21 23:31:07,068 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:07,186 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230621/%E3%80%90510057%E3%80%91%E3%80%901.1%E3%80%91play_activitymusic_thememusic_112bpm4_4_9f10a681c2ed4bac8ba25dff377b7d7f.wav HTTP/1.1" 200 19129550
+2023-08-21 23:31:09,123 - root - INFO - 访问成功，已保存EP  雷米特杯失窃案.wav文件
+2023-08-21 23:31:09,126 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230621/1_54e866b303364121b2135d29b1543705.jpg中
+2023-08-21 23:31:09,127 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:09,272 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230621/1_54e866b303364121b2135d29b1543705.jpg HTTP/1.1" 200 204774
+2023-08-21 23:31:09,366 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230621/1_54e866b303364121b2135d29b1543705.jpg成功，已保存EP  雷米特杯失窃案.jpg文件
+2023-08-21 23:31:09,368 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230621/2_f53283ba7ba043cf850b19393c33a191.png中
+2023-08-21 23:31:09,369 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:09,488 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230621/2_f53283ba7ba043cf850b19393c33a191.png HTTP/1.1" 200 27356
+2023-08-21 23:31:09,496 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230621/2_f53283ba7ba043cf850b19393c33a191.png成功，已保存EP  雷米特杯失窃案.png文件
+2023-08-21 23:31:09,498 - root - INFO - json文件EP  雷米特杯失窃案.json保存成功
+2023-08-21 23:31:09,498 - root - INFO - 访问完成
+2023-08-21 23:31:09,498 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230520/M1_星锑_EP_e37d0238bd59495daca32c7ec171e63b.wav中
+2023-08-21 23:31:09,499 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230520/M1_星锑_EP_e37d0238bd59495daca32c7ec171e63b.wav中
+2023-08-21 23:31:09,501 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:09,612 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230520/M1_%E6%98%9F%E9%94%91_EP_e37d0238bd59495daca32c7ec171e63b.wav HTTP/1.1" 200 38402844
+2023-08-21 23:31:13,102 - root - INFO - 访问成功，已保存EP  别坐得太舒服.wav文件
+2023-08-21 23:31:13,105 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230520/M1_星锑_EP_e37d0238bd59495daca32c7ec171e63b.wav中
+2023-08-21 23:31:13,107 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:13,221 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230520/M1_%E6%98%9F%E9%94%91_EP_e37d0238bd59495daca32c7ec171e63b.wav HTTP/1.1" 200 38402844
+2023-08-21 23:31:16,771 - root - INFO - 访问成功，已保存EP  别坐得太舒服.wav文件
+2023-08-21 23:31:16,775 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230526/音乐图_7a3b73797ed0485f86e34484ac46cc72.jpg中
+2023-08-21 23:31:16,777 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:16,965 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230526/%E9%9F%B3%E4%B9%90%E5%9B%BE_7a3b73797ed0485f86e34484ac46cc72.jpg HTTP/1.1" 200 369549
+2023-08-21 23:31:17,107 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230526/音乐图_7a3b73797ed0485f86e34484ac46cc72.jpg成功，已保存EP  别坐得太舒服.jpg文件
+2023-08-21 23:31:17,109 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230520/官网音乐版块发布-英文_f794d4c30d5f4a35b633da33726bc5b2.png中
+2023-08-21 23:31:17,111 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:17,230 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230520/%E5%AE%98%E7%BD%91%E9%9F%B3%E4%B9%90%E7%89%88%E5%9D%97%E5%8F%91%E5%B8%83-%E8%8B%B1%E6%96%87_f794d4c30d5f4a35b633da33726bc5b2.png HTTP/1.1" 200 20530
+2023-08-21 23:31:17,232 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230520/官网音乐版块发布-英文_f794d4c30d5f4a35b633da33726bc5b2.png成功，已保存EP  别坐得太舒服.png文件
+2023-08-21 23:31:17,234 - root - INFO - json文件EP  别坐得太舒服.json保存成功
+2023-08-21 23:31:17,234 - root - INFO - 访问完成
+2023-08-21 23:31:17,234 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230512/M1_维尔汀_EP__5deb21328a924522be9e45e1102aaa6a.wav中
+2023-08-21 23:31:17,235 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230512/M1_维尔汀_EP__5deb21328a924522be9e45e1102aaa6a.wav中
+2023-08-21 23:31:17,237 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:17,349 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230512/M1_%E7%BB%B4%E5%B0%94%E6%B1%80_EP__5deb21328a924522be9e45e1102aaa6a.wav HTTP/1.1" 200 62600754
+2023-08-21 23:31:23,379 - root - INFO - 访问成功，已保存EP  帕格尼尼：柔美如歌.wav文件
+2023-08-21 23:31:23,385 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230512/M1_维尔汀_EP__5deb21328a924522be9e45e1102aaa6a.wav中
+2023-08-21 23:31:23,387 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:23,503 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230512/M1_%E7%BB%B4%E5%B0%94%E6%B1%80_EP__5deb21328a924522be9e45e1102aaa6a.wav HTTP/1.1" 200 62600754
+2023-08-21 23:31:29,340 - root - INFO - 访问成功，已保存EP  帕格尼尼：柔美如歌.wav文件
+2023-08-21 23:31:29,346 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230512/大封面图_84a9926b25bc484eb1a27d3b1ead333f.jpg中
+2023-08-21 23:31:29,348 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:29,483 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230512/%E5%A4%A7%E5%B0%81%E9%9D%A2%E5%9B%BE_84a9926b25bc484eb1a27d3b1ead333f.jpg HTTP/1.1" 200 204035
+2023-08-21 23:31:29,575 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230512/大封面图_84a9926b25bc484eb1a27d3b1ead333f.jpg成功，已保存EP  帕格尼尼：柔美如歌.jpg文件
+2023-08-21 23:31:29,577 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230512/小封面图_0ef68f7bdd7747e7a1d9f6ca0db28528.png中
+2023-08-21 23:31:29,579 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:29,697 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230512/%E5%B0%8F%E5%B0%81%E9%9D%A2%E5%9B%BE_0ef68f7bdd7747e7a1d9f6ca0db28528.png HTTP/1.1" 200 16811
+2023-08-21 23:31:29,699 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230512/小封面图_0ef68f7bdd7747e7a1d9f6ca0db28528.png成功，已保存EP  帕格尼尼：柔美如歌.png文件
+2023-08-21 23:31:29,702 - root - INFO - json文件EP  帕格尼尼：柔美如歌.json保存成功
+2023-08-21 23:31:29,702 - root - INFO - 访问完成
+2023-08-21 23:31:29,702 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230414/十四行詩_EP_d424dacb74eb47538ae2d19c97600e7d.wav中
+2023-08-21 23:31:29,708 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230414/十四行詩_EP_d424dacb74eb47538ae2d19c97600e7d.wav中
+2023-08-21 23:31:29,711 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:29,835 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230414/%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%A9%A9_EP_d424dacb74eb47538ae2d19c97600e7d.wav HTTP/1.1" 200 56968892
+2023-08-21 23:31:35,141 - root - INFO - 访问成功，已保存EP  新世界.wav文件
+2023-08-21 23:31:35,146 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230414/十四行詩_EP_d424dacb74eb47538ae2d19c97600e7d.wav中
+2023-08-21 23:31:35,148 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:35,254 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230414/%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%A9%A9_EP_d424dacb74eb47538ae2d19c97600e7d.wav HTTP/1.1" 200 56968892
+2023-08-21 23:31:40,599 - root - INFO - 访问成功，已保存EP  新世界.wav文件
+2023-08-21 23:31:40,605 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230414/大封面图_02828a2c98474de1b09aa4735b8042a6.jpg中
+2023-08-21 23:31:40,607 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:40,727 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230414/%E5%A4%A7%E5%B0%81%E9%9D%A2%E5%9B%BE_02828a2c98474de1b09aa4735b8042a6.jpg HTTP/1.1" 200 57528
+2023-08-21 23:31:40,755 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230414/大封面图_02828a2c98474de1b09aa4735b8042a6.jpg成功，已保存EP  新世界.jpg文件
+2023-08-21 23:31:40,757 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230414/小封面图_19d16f9969354115bbd63d6764e89357.png中
+2023-08-21 23:31:40,759 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:40,883 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230414/%E5%B0%8F%E5%B0%81%E9%9D%A2%E5%9B%BE_19d16f9969354115bbd63d6764e89357.png HTTP/1.1" 200 7799
+2023-08-21 23:31:40,884 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230414/小封面图_19d16f9969354115bbd63d6764e89357.png成功，已保存EP  新世界.png文件
+2023-08-21 23:31:40,888 - root - INFO - json文件EP  新世界.json保存成功
+2023-08-21 23:31:40,888 - root - INFO - 访问完成
+2023-08-21 23:31:40,888 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230330/晨曦森林-夜晚_6c0cbacc94c6473086cf7731b19c5e13.mp3中
+2023-08-21 23:31:40,888 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230330/晨曦森林-夜晚_6c0cbacc94c6473086cf7731b19c5e13.mp3中
+2023-08-21 23:31:40,890 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:41,003 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230330/%E6%99%A8%E6%9B%A6%E6%A3%AE%E6%9E%97-%E5%A4%9C%E6%99%9A_6c0cbacc94c6473086cf7731b19c5e13.mp3 HTTP/1.1" 200 48009728
+2023-08-21 23:31:45,683 - root - INFO - 访问成功，已保存Scene  晨曦森林·夜.wav文件
+2023-08-21 23:31:45,689 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230330/晨曦森林-夜晚_6c0cbacc94c6473086cf7731b19c5e13.mp3中
+2023-08-21 23:31:45,691 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:45,817 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230330/%E6%99%A8%E6%9B%A6%E6%A3%AE%E6%9E%97-%E5%A4%9C%E6%99%9A_6c0cbacc94c6473086cf7731b19c5e13.mp3 HTTP/1.1" 200 48009728
+2023-08-21 23:31:50,450 - root - INFO - 访问成功，已保存Scene  晨曦森林·夜.wav文件
+2023-08-21 23:31:50,456 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230330/大封面图_d2c535133892486e93dbc99c5fabc4e5.jpg中
+2023-08-21 23:31:50,458 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:50,644 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230330/%E5%A4%A7%E5%B0%81%E9%9D%A2%E5%9B%BE_d2c535133892486e93dbc99c5fabc4e5.jpg HTTP/1.1" 200 268280
+2023-08-21 23:31:50,763 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230330/大封面图_d2c535133892486e93dbc99c5fabc4e5.jpg成功，已保存Scene  晨曦森林·夜.jpg文件
+2023-08-21 23:31:50,765 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230330/小封面图_38c2bd0547294cc3b7d083029eb6d254.png中
+2023-08-21 23:31:50,767 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:50,880 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230330/%E5%B0%8F%E5%B0%81%E9%9D%A2%E5%9B%BE_38c2bd0547294cc3b7d083029eb6d254.png HTTP/1.1" 200 19135
+2023-08-21 23:31:50,883 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230330/小封面图_38c2bd0547294cc3b7d083029eb6d254.png成功，已保存Scene  晨曦森林·夜.png文件
+2023-08-21 23:31:50,885 - root - INFO - json文件Scene  晨曦森林·夜.json保存成功
+2023-08-21 23:31:50,885 - root - INFO - 访问完成
+2023-08-21 23:31:50,885 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230328/苏芙比府邸_f019007024bd41dbb8ba248eaab9b181.mp3中
+2023-08-21 23:31:50,886 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230328/苏芙比府邸_f019007024bd41dbb8ba248eaab9b181.mp3中
+2023-08-21 23:31:50,888 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:51,004 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230328/%E8%8B%8F%E8%8A%99%E6%AF%94%E5%BA%9C%E9%82%B8_f019007024bd41dbb8ba248eaab9b181.mp3 HTTP/1.1" 200 48150697
+2023-08-21 23:31:55,775 - root - INFO - 访问成功，已保存Scene  苏芙比府邸.wav文件
+2023-08-21 23:31:55,781 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230328/苏芙比府邸_f019007024bd41dbb8ba248eaab9b181.mp3中
+2023-08-21 23:31:55,783 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:31:55,936 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230328/%E8%8B%8F%E8%8A%99%E6%AF%94%E5%BA%9C%E9%82%B8_f019007024bd41dbb8ba248eaab9b181.mp3 HTTP/1.1" 200 48150697
+2023-08-21 23:32:00,544 - root - INFO - 访问成功，已保存Scene  苏芙比府邸.wav文件
+2023-08-21 23:32:00,549 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/苏芙比府邸_封面_f1ac9f1ac85f4742ac961393bfb97bf5.png中
+2023-08-21 23:32:00,551 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:00,686 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230328/%E8%8B%8F%E8%8A%99%E6%AF%94%E5%BA%9C%E9%82%B8_%E5%B0%81%E9%9D%A2_f1ac9f1ac85f4742ac961393bfb97bf5.png HTTP/1.1" 200 322460
+2023-08-21 23:32:00,814 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/苏芙比府邸_封面_f1ac9f1ac85f4742ac961393bfb97bf5.png成功，已保存Scene  苏芙比府邸.jpg文件
+2023-08-21 23:32:00,816 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/苏芙比府邸_164908d3e60342a1b98b0f1512975cf2.png中
+2023-08-21 23:32:00,818 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:00,947 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230328/%E8%8B%8F%E8%8A%99%E6%AF%94%E5%BA%9C%E9%82%B8_164908d3e60342a1b98b0f1512975cf2.png HTTP/1.1" 200 12835
+2023-08-21 23:32:00,948 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/苏芙比府邸_164908d3e60342a1b98b0f1512975cf2.png成功，已保存Scene  苏芙比府邸.png文件
+2023-08-21 23:32:00,951 - root - INFO - json文件Scene  苏芙比府邸.json保存成功
+2023-08-21 23:32:00,951 - root - INFO - 访问完成
+2023-08-21 23:32:00,951 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230328/晨曦森林_9946e9ea09914f41869d5dae8197ad65.mp3中
+2023-08-21 23:32:00,951 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230328/晨曦森林_9946e9ea09914f41869d5dae8197ad65.mp3中
+2023-08-21 23:32:00,953 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:01,076 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230328/%E6%99%A8%E6%9B%A6%E6%A3%AE%E6%9E%97_9946e9ea09914f41869d5dae8197ad65.mp3 HTTP/1.1" 200 48519931
+2023-08-21 23:32:06,026 - root - INFO - 访问成功，已保存Scene  晨曦森林.wav文件
+2023-08-21 23:32:06,031 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230328/晨曦森林_9946e9ea09914f41869d5dae8197ad65.mp3中
+2023-08-21 23:32:06,033 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:06,146 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230328/%E6%99%A8%E6%9B%A6%E6%A3%AE%E6%9E%97_9946e9ea09914f41869d5dae8197ad65.mp3 HTTP/1.1" 200 48519931
+2023-08-21 23:32:10,562 - root - INFO - 访问成功，已保存Scene  晨曦森林.wav文件
+2023-08-21 23:32:10,569 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/晨曦森林_封面_30435c2f7b484d3688c7b37bb714ed62.png中
+2023-08-21 23:32:10,571 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:10,689 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230328/%E6%99%A8%E6%9B%A6%E6%A3%AE%E6%9E%97_%E5%B0%81%E9%9D%A2_30435c2f7b484d3688c7b37bb714ed62.png HTTP/1.1" 200 343070
+2023-08-21 23:32:10,842 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/晨曦森林_封面_30435c2f7b484d3688c7b37bb714ed62.png成功，已保存Scene  晨曦森林.jpg文件
+2023-08-21 23:32:10,844 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/晨曦森林_030fb1321694442c9ac08f0ab92fbce7.png中
+2023-08-21 23:32:10,846 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:10,983 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230328/%E6%99%A8%E6%9B%A6%E6%A3%AE%E6%9E%97_030fb1321694442c9ac08f0ab92fbce7.png HTTP/1.1" 200 6340
+2023-08-21 23:32:10,985 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/晨曦森林_030fb1321694442c9ac08f0ab92fbce7.png成功，已保存Scene  晨曦森林.png文件
+2023-08-21 23:32:10,987 - root - INFO - json文件Scene  晨曦森林.json保存成功
+2023-08-21 23:32:10,987 - root - INFO - 访问完成
+2023-08-21 23:32:10,987 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230325/All In Vague_e8ff2633e9d646b8ae20386fb19c1b29.mp3中
+2023-08-21 23:32:10,988 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230325/All In Vague_e8ff2633e9d646b8ae20386fb19c1b29.mp3中
+2023-08-21 23:32:10,990 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:11,117 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230325/All%20In%20Vague_e8ff2633e9d646b8ae20386fb19c1b29.mp3 HTTP/1.1" 200 6641325
+2023-08-21 23:32:12,008 - root - INFO - 访问成功，已保存EP  All in vague.wav文件
+2023-08-21 23:32:12,010 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230325/All In Vague_e8ff2633e9d646b8ae20386fb19c1b29.mp3中
+2023-08-21 23:32:12,011 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:12,141 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230325/All%20In%20Vague_e8ff2633e9d646b8ae20386fb19c1b29.mp3 HTTP/1.1" 200 6641325
+2023-08-21 23:32:13,186 - root - INFO - 访问成功，已保存EP  All in vague.wav文件
+2023-08-21 23:32:13,188 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230325/All-in-vague_封面_e92a03f81a08418b9cfa2d2ffa01c1cb.png中
+2023-08-21 23:32:13,191 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:13,321 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230325/All-in-vague_%E5%B0%81%E9%9D%A2_e92a03f81a08418b9cfa2d2ffa01c1cb.png HTTP/1.1" 200 259301
+2023-08-21 23:32:13,447 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230325/All-in-vague_封面_e92a03f81a08418b9cfa2d2ffa01c1cb.png成功，已保存EP  All in vague.jpg文件
+2023-08-21 23:32:13,448 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230325/All in vague_f7a087b7148b450b84df954f621a418f.png中
+2023-08-21 23:32:13,450 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-21 23:32:13,572 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/MUSIC/20230325/All%20in%20vague_f7a087b7148b450b84df954f621a418f.png HTTP/1.1" 200 8537
+2023-08-21 23:32:13,573 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230325/All in vague_f7a087b7148b450b84df954f621a418f.png成功，已保存EP  All in vague.png文件
+2023-08-21 23:32:13,576 - root - INFO - json文件EP  All in vague.json保存成功
+2023-08-21 23:32:13,577 - root - INFO - 访问完成
+2023-08-28 17:55:14,168 - root - INFO - 正在打开文件query.json
+2023-08-28 17:55:14,181 - root - INFO - 读取文件query.json成功，已经转换为{'code': 200, 'msg': '成功', 'data': {'pageData': [{...
+2023-08-28 17:55:14,181 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-28 17:55:14,182 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-28 17:55:14,185 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-28 17:55:14,515 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake%EF%BC%88%E9%9D%9E%E6%B8%85%E5%94%B1%EF%BC%89_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav HTTP/1.1" 200 47079394
+2023-08-28 17:55:29,318 - root - INFO - 正在打开文件query.json
+2023-08-28 17:55:29,319 - root - INFO - 读取文件query.json成功，已经转换为{'code': 200, 'msg': '成功', 'data': {'pageData': [{...
+2023-08-28 17:55:29,319 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-28 17:55:29,319 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-28 17:55:29,322 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-28 17:55:29,441 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake%EF%BC%88%E9%9D%9E%E6%B8%85%E5%94%B1%EF%BC%89_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav HTTP/1.1" 200 47079394
+2023-08-28 17:58:31,307 - root - INFO - 正在打开文件query.json
+2023-08-28 17:58:31,308 - root - INFO - 读取文件query.json成功，已经转换为{'code': 200, 'msg': '成功', 'data': {'pageData': [{...
+2023-08-28 17:58:31,308 - root - INFO - [{'id': 11, 'gameId': 50001, 'envType': 4, 'title': 'EP | 坎贝尔', 'shortTitle': 'Campbell', 'desc': '这是她作为前辈为后辈而唱的歌，\n也是她赠与一切罅隙中人的祝福。\n为孩子们的成长，也为他们回归到自己之中来的勇气。', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-08-09 00:00:00', 'offlineTime': '2040-09-30 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230809/大封面图_e756692e3a0a42049059b2a0c9a77075.jpg', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230809/小封面图_478857729bce44ce92010f9a197e1131.png', 'weight': 11}, {'id': 10, 'gameId': 50001, 'envType': 4, 'title': 'EP | 绿湖噩梦', 'shortTitle': 'A Nightmare at Greenlake', 'desc': '说到底，这是一个惊悚不足的惊悚故事。\n身为故事的创作者，她和她都还有很长一段路要走。\n好在走出密林后，她们站得更高，望得更远，灵感更多。', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-08-02 00:00:00', 'offlineTime': '2043-09-30 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230802/【510061】【1.2】play_activitymusic_greenlake_thememusic_114bpm3_4_ed91ac06cc55424783f64c0496873518.wav', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230802/大封面图_656b520153b44af4906c245165c93377.jpg', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230802/小封面图_e4f92f942c3445079a266d9ebb131fe3.png', 'weight': 10}, {'id': 9, 'gameId': 50001, 'envType': 4, 'title': 'EP | 嘘!', 'shortTitle': 'Shhh！', 'desc': '屏息，噤声，她伺机而动。\n为了延续拉米雷斯的传说，还有无数闪闪发光的考题正等待着她去历练。', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-06-24 00:00:00', 'offlineTime': '2040-07-31 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230628/【510058】【1.1】play_activitymusic_HumorousBurglary_74bpm4-4_dfe6b545b1894c3aad75a618ad6f9b0c.wav', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230628/底图-662x662(1)(1)_a877214b807148c982bd58a98a78acae.jpg', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230628/歌名-602x270_afc536210c7641f3a079fcac8130fffa.png', 'weight': 9}, {'id': 8, 'gameId': 50001, 'envType': 4, 'title': 'EP | 雷米特杯失窃案', 'shortTitle': 'The Theft of The Rimet Cup', 'desc': '“这是我遇到的其中一个故事，充满可爱的动物与可怕的阴谋。我很高兴能把它讲述给你们。\n无论你在哪儿，正在经历什么，希望它能带给你片刻的快乐。”', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-06-19 00:00:00', 'offlineTime': '2040-07-31 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230621/【510057】【1.1】play_activitymusic_thememusic_112bpm4_4_9f10a681c2ed4bac8ba25dff377b7d7f.wav', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230621/1_54e866b303364121b2135d29b1543705.jpg', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230621/2_f53283ba7ba043cf850b19393c33a191.png', 'weight': 8}, {'id': 7, 'gameId': 50001, 'envType': 4, 'title': 'EP | 别坐得太舒服', 'shortTitle': 'Hands in the air', 'desc': '机车引擎的轰鸣、泰晤士河的波涛、富含营养的棒朋友，还有我们的海盗船长——\nRe-Re-Re-Re-Regulus！\n现在，戴上你的耳机，跟星锑船长一起，开始今天，开始关于摇滚的每一天！', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-05-20 00:00:00', 'offlineTime': '2040-06-30 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230520/M1_星锑_EP_e37d0238bd59495daca32c7ec171e63b.wav', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230526/音乐图_7a3b73797ed0485f86e34484ac46cc72.jpg', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230520/官网音乐版块发布-英文_f794d4c30d5f4a35b633da33726bc5b2.png', 'weight': 7}, {'id': 6, 'gameId': 50001, 'envType': 4, 'title': 'EP | 帕格尼尼：柔美如歌', 'shortTitle': 'Paganini: Cantabile', 'desc': '从黑夜至日暮，从湿润的雨至干爽的风，\n以昼继夜间，水从泥土里去往天上，\n林木亦在拼合中获得了新生。', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-05-13 10:00:00', 'offlineTime': '2042-06-13 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230512/M1_维尔汀_EP__5deb21328a924522be9e45e1102aaa6a.wav', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230512/大封面图_84a9926b25bc484eb1a27d3b1ead333f.jpg', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230512/小封面图_0ef68f7bdd7747e7a1d9f6ca0db28528.png', 'weight': 6}, {'id': 5, 'gameId': 50001, 'envType': 4, 'title': 'EP | 新世界', 'shortTitle': 'A New World', 'desc': '她在悠长的练习里学到了奉献自我的训示与美德。\n但当她背对窗外，望向墙壁，\n她将那炽热的视线认作错觉，错把墙上的挂画当作了新世界。', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-04-14 11:00:00', 'offlineTime': '2040-05-20 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230414/十四行詩_EP_d424dacb74eb47538ae2d19c97600e7d.wav', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230414/大封面图_02828a2c98474de1b09aa4735b8042a6.jpg', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230414/小封面图_19d16f9969354115bbd63d6764e89357.png', 'weight': 5}, {'id': 4, 'gameId': 50001, 'envType': 4, 'title': 'Scene | 晨曦森林·夜', 'shortTitle': 'Dawnwoods - Night', 'desc': '无涯无际的森林，\n它正不容分说地召唤人们走入它谜一般的密林丛去。\n这种召唤无从抗拒，使你不得不立刻背起行囊，走进森林，\n沐浴在这苍翠的海洋之中，一直走，走到夜色渐浓。\n', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-03-30 00:00:00', 'offlineTime': '2040-04-30 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230330/晨曦森林-夜晚_6c0cbacc94c6473086cf7731b19c5e13.mp3', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230330/大封面图_d2c535133892486e93dbc99c5fabc4e5.jpg', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230330/小封面图_38c2bd0547294cc3b7d083029eb6d254.png', 'weight': 4}, {'id': 3, 'gameId': 50001, 'envType': 4, 'title': 'Scene | 苏芙比府邸', 'shortTitle': "Sotheby's Mansion ", 'desc': '这栋宅邸好客的主人将带领你在这无穷无尽的屋舍中行走，\n为你讲述她古怪离奇的故事、猜想、知识与实验秘辛。 \n神奇的事情那样多，那样多，足够她整整说上三天两夜。\n', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-03-28 00:00:00', 'offlineTime': '2040-04-30 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230328/苏芙比府邸_f019007024bd41dbb8ba248eaab9b181.mp3', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/苏芙比府邸_封面_f1ac9f1ac85f4742ac961393bfb97bf5.png', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/苏芙比府邸_164908d3e60342a1b98b0f1512975cf2.png', 'weight': 3}, {'id': 2, 'gameId': 50001, 'envType': 4, 'title': 'Scene | 晨曦森林', 'shortTitle': 'Dawnwoods', 'desc': '清晨雾气弥漫，林木的夜语已息，\n鹿群汲水后再散去，涟漪重返平静。 \n你在最恰当的时机步入这片森林。', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-03-28 00:00:00', 'offlineTime': '2040-04-30 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230328/晨曦森林_9946e9ea09914f41869d5dae8197ad65.mp3', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/晨曦森林_封面_30435c2f7b484d3688c7b37bb714ed62.png', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230328/晨曦森林_030fb1321694442c9ac08f0ab92fbce7.png', 'weight': 2}, {'id': 1, 'gameId': 50001, 'envType': 4, 'title': 'EP | All in vague', 'shortTitle': 'All in vague', 'desc': 'Lost in time\nAll in vague\nNever a dream\nBe the same', 'collectionId': 19, 'status': 1, 'onlineTime': '2023-03-27 00:00:00', 'offlineTime': '2039-04-29 23:59:59', 'musicUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230325/All In Vague_e8ff2633e9d646b8ae20386fb19c1b29.mp3', 'bigCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230325/All-in-vague_封面_e92a03f81a08418b9cfa2d2ffa01c1cb.png', 'smallCoverUrl': 'https://gamecms-res.sl916.com/official_website_resource/50001/4/MUSIC/20230325/All in vague_f7a087b7148b450b84df954f621a418f.png', 'weight': 1}]
+2023-08-28 17:58:31,308 - root - INFO - 访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-28 17:58:31,308 - root - INFO - 正在访问https://gamecms-res.sl916.com/official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake（非清唱）_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav中
+2023-08-28 17:58:31,311 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gamecms-res.sl916.com:443
+2023-08-28 17:58:31,521 - urllib3.connectionpool - DEBUG - https://gamecms-res.sl916.com:443 "GET /official_website_resource/50001/4/VIDEO/20230809/activitymusic_nightmareatgreenlake%EF%BC%88%E9%9D%9E%E6%B8%85%E5%94%B1%EF%BC%89_theme_70bpm4_4_a73c0139c59f49cd8989a42c5101a407.wav HTTP/1.1" 200 47079394
