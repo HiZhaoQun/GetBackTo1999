@@ -96,13 +96,14 @@ def run_single(_datas_dict):
     dealed_dict = deal_json_dict(_datas_dict)
     save_dict(dealed_dict)
 
+
 m_json_name = run_get_json()
 json_dicts = json_to_dict(m_json_name)
 data_dicts = json_dicts['data']['pageData']
 total = json_dicts['data']['total']
 
 # 创建一个线程池，最大线程数为10
-
+total = 2
 with ThreadPoolExecutor(max_workers=total) as executor:
     # 使用map方法将访问网页的任务提交给线程池
     results = executor.map(run_single, data_dicts)

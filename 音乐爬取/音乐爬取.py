@@ -95,6 +95,7 @@ def run_single(_datas_dict):
     save_dict(dealed_data_dict)
 
 
+total_num = 3
 with ThreadPoolExecutor(max_workers=total_num) as executor:
     # 使用map方法将访问网页的任务提交给线程池
     results = executor.map(run_single, datas_list)
